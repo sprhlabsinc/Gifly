@@ -1,0 +1,48 @@
+<resources>
+    <string name="app_name">Gifly</string>
+    <string name="title_activity_welcome">Home Screen</string>
+    <string name="next">NEXT</string>
+    <string name="skip">SKIP</string>
+    <string name="start">GOT IT</string>
+    <string name="continue1">Continue</string>
+
+    <string name="slide_1_title">CREATE GIFLY STORIES</string>
+    <string name="slide_1_desc">Capture your daily life moments in Gif and give them whole new perception.</string>
+
+    <string name="slide_2_title">ADD YOUR VOICE TO GIFLY</string>
+    <string name="slide_2_desc">Give your voice to your Gifly story. Record edit and add background music to it.</string>
+
+    <string name="slide_3_title">STORY NETWORK</string>
+    <string name="slide_3_desc">Share stories with your personal contact network  and publicly on Gifly network.</string>
+
+    <string name="slide_4_title">SWIPE STORIES</string>
+    <string name="slide_4_desc">Swipe and discover your contacts or public Gifly stories.</string>
+
+    <string name="play_again_desc">To see the Tutorial again, goto Settings -> apps -> Gifly -> clear data</string>
+    <string name="play_again">Play Again</string>
+
+    <string name="please_verify_your_phone_number">Please verify your phone number</string>
+    <string name="country">Country</string>
+    <string name="phone_number">Phone Number</string>
+    <string name="your_number_is_only_used">Your number is only used for verification of your phone and will never be shared.</string>
+    <string name="send_sms">Send SMS</string>
+
+    <string name="please_enter_the_code_sent">Please enter the code sent on your phone number</string>
+    <string name="verify">Verify</string>
+    
+    <string name="give_it_your_name">Give it your name. It makes other people to remember you!</string>
+    <string name="done_lets_start">Done, Lets Start!</string>
+
+    <string name="create_story">Create Story</string>
+    <string name="done">Done</string>
+    <string name="plus_tag">+Tag</string>
+
+    <string name="country_prompt">Choose a country</string>
+
+    <string-array name="country_array">
+        <item>United Statues(+1)</item>
+        <item>United Kingdom(+44)</item>
+        <item>China(+86)</item>
+        <item>Ukraine(+380)</item>
+    </string-array>
+</resources>
